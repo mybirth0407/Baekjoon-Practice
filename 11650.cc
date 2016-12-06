@@ -25,20 +25,6 @@ int main() {
 }
 
 /*
-bool cmp(const pair<int, int> &pair1, const pair<int, int> &pair2) {
-  if (pair1.second < pair2.second) {
-    return true;
-  } else if (pair1.second == pair2.second) {
-    return pair1.first < pair2.first
-  } else {
-    return false;
-  }
-}
-
-sort(v.begin(), v.end(), cmp)
-*/
-
-/*
 5
 3 4
 1 1
