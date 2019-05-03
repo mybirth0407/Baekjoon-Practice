@@ -1,1 +1,2 @@
-# Algorithm Problems Solving
+# Baekjoon Practice
+https://www.acmicpc.net/
